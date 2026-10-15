@@ -1,0 +1,38 @@
+body {
+  background-image: url(https://i0.wp.com/merrickacademy.org/wp-content/uploads/2025/08/MACSRenderingwTitleBlock1-1.jpg?w=1200&ssl=1);
+  background-size: cover;         
+  background-repeat: no-repeat;    
+  background-position: center;  
+}
+
+.links {
+    color: white;
+  text-align: center;
+  margin-top: 20px;
+  gap: 10px;
+}
+.links a {
+  text-decoration: none;
+font-size: 1.5rem;
+  margin: 0 10px;
+  font-style:san s-serif;
+  font-weight:400;
+}
+a {
+  color: white;
+   
+}
+
+a:visited {
+  color: white;
+}
+ .description {
+  color: white;
+  text-align: center;
+  margin-top: 20px;
+  font-size: 2.0rem;
+}
+.logo {
+  text-align: center;
+  margin-top: 20px;
+}
